@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrian
 
-**M.Sc. Cognitive Science** with a focus on **spatiotemporal modeling**  
-Interested in **computer vision** and **applied deep learning with PyTorch**
+**M.Sc. Cognitive Science** with a focus on **spatiotemporal modeling**. 
+Interested in **computer vision** and **applied deep learning with PyTorch**.
 
 ---
 
