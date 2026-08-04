@@ -52,14 +52,6 @@ This requires learning from **probabilistic spatial signals** instead of precise
 
 ---
 
-## 📌 What I Aim to Show
-
-- Ability to **design and implement deep learning pipelines end-to-end**  
-- Experience working with **non-ideal, real-world datasets**  
-- Understanding of **model limitations and trade-offs**  
-- Focus on **applied computer vision problems**
-
----
 
 ## 🤖 A note on AI usage
 
